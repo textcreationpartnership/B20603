@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A conference between the Lady Jane Grey and F. Fecknam a Romish priest, concerning the blessed sacrament; whilest she was prisoner in the Tower of London, and was beheaded on the Green there, Feb. 12. 1554. Together with her behaviour and last speech and prayers at her suffering.</title>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20603</idno><idno type="EEBO-CITATION">99885408</idno>
+  <idno type="VID">189144</idno>
+  <idno type="EEBO-PROQUEST">2248535298</idno>
+  
+            <idno type="STC">Wing C5726</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[107]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.24[2]</idno>
+            <idno type="STC">ESTC R223000</idno>
+            <idno type="PROQUEST">ocm99885408</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885408e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189144)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C15:2[2]; B2:1[168])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A conference between the Lady Jane Grey and F. Fecknam a Romish priest, concerning the blessed sacrament; whilest she was prisoner in the Tower of London, and was beheaded on the Green there, Feb. 12. 1554. Together with her behaviour and last speech and prayers at her suffering.</title>
+                  <author>Grey, Jane, Lady, 1537-1554.</author>
+                  <author>Feckenham, John de, 1518?-1585.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At foot of text: Licensed according to order. 1688.</note>
+                  <note>Printed in three columns.</note>
+                  <note>Imperfect: torn with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Grey, Jane, --  Lady, 1537-1554 --  Early works to 1800.</term>
+               <term type="topical_term">Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb facs="tcp:189144:1"/>
+            <pb facs="tcp:189144:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>depiction of beheading of Lady Jane Grey</figDesc>
+               </figure>
+            </head>
+            <head>A Conference between the Lady <hi>Jane Grey</hi> and <hi>F. Fecknam</hi> a <hi>Romish</hi> Priest, concerning the Blessed Sacrament; Whilest she was Prisoner in the Tower of <hi>LONDON,</hi> and was Beheaded on the Green there, <hi>Feb. 12. 1554.</hi> Together with her Behaviour and last Speech and Prayers at her Suffering.</head>
+            <div type="part">
+               <p>DURING the Languishing Sickness of K. <hi>Edward</hi> the Sixth, a Marriage was contracted between the Lord <hi>Guilford Dudley,</hi> eldest Son to the Duke of <hi>Northumberland,</hi> and the Lady <hi>Jane,</hi> the Daughter of the Duke of <hi>Suffolk,</hi> whose Mother being then alive, was Daughter to <hi>Mary,</hi> K. <hi>Henry</hi> the Eighth his second Sister, who was first Married to the <hi>French</hi> King, and afterward to <hi>Charles</hi> Duke of <hi>Suffolk.</hi>
+               </p>
+               <p>This Marriage being finisht, and the King growing every <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay more sick than other, so that he seemed past recovery, the <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ke of <hi>Northumberland</hi> being ambitious to advance his Fami<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>▪ perswaded the King in his weakness, that the Crown might <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> left to the Lady <hi>Jane,</hi> the eldest Daughter; whose Reasons <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o prevailed with this sick King, that by his last Will he exclu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d both his Sisters, and left the Crown to the Lady <hi>Jane.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this Will, by the power and fear of the Duke of <hi>Nor<g ref="char:EOLhyphen"/>thumberland,</hi> all the Kings Council, the Lord Mayor and Al<g ref="char:EOLhyphen"/>dermen of <hi>London,</hi> with almost all the Judges and Lawyers of this Realm, except only Justice <hi>Hales</hi> of <hi>Kent,</hi> a Man favour<g ref="char:EOLhyphen"/>ing the True Religion, and also an upright Judge, as any hath been known in this Kingdom did assent.</p>
+               <p>A while after K. <hi>Edward</hi> dyed, and the L. <hi>Jane</hi> was perswa<g ref="char:EOLhyphen"/>ded to take the Crown upon her; it was told her by the Duke of <hi>Northumberland,</hi> her Father in Law, <hi>That the King was dead, and that he had declared her for his next Successor to the Crown Imperial; and that this Declaration was approved by all the Lords of the Council, most of the Peers, and all the Judges of the Land; which they had testified by the Subscription of their names: and all this ratified and confirmed by Letters Patents under the Great Seal of</hi> England: <hi>And that the Lord Mayor and Al<g ref="char:EOLhyphen"/>dermen of</hi> London, <hi>and some of the Principal Citizens had been spoke withal, by whom they were assured of the fidelity of the rest of the City. That there was nothing wanting, but her grateful acceptance of that high Dignity which God Almighty, the sove<g ref="char:EOLhyphen"/>raign Disposer of all Crowns and Scepters, never sufficiently to be thanked by her for so great a Mercy, had advanced her to; and that therefore she should chearfully take upon her the Name, Title, and Estate of Q. of</hi> England, France, <hi>and</hi> Ireland, <hi>with all the Royalties and Preheminencies to the same belonging; receiving at their hands the first fruits of that humble Duty now tendred by them on their knees, which shortly was to be paid to her by the rest of the Kingdom.</hi>
+               </p>
+               <p>This Speech being ended, the poor Lady found her self in great perplexity; not knowing whether she should more la<g ref="char:EOLhyphen"/>ment the death of the King, or her Adoption to the Kingdom.</p>
+               <p>Taking some time therefore of deliberation, she considered of the matter, and then half drowned in Tears, she returned an Answer to this effect:</p>
+               <p>
+                  <q rend="inline">That the Laws of the Kingdom and Natural Right standing for the Kings Sisters, she would beware of burthening her Conscience with a yoke that did belong to them; That she un<g ref="char:EOLhyphen"/>derstood the Infamy of those who had permitted the violation or Right to gain a Scepter, and it were to mock God, and de<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ide Justice, to scruple at the stealing of a shilling, and not at the Usurpation of a Crown: Besides (said she) I am not so young, nor so little read in the guiles of this deceitful world, <gap reason="illegible" resp="#oxf" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> suffer my self to be taken by them; if she enrich any, it is <gap reason="illegible" resp="#oxf" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> make them the subject of her spoil; if she raise others, <gap reason="illegible" resp="#oxf" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut to please her self with their Ruine: What she adored <gap reason="illegible" resp="#oxf" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>esterday, is to day her pastime; and if I now permit her <gap reason="illegible" resp="#oxf" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rn and crown me, I must to morrow suffer her to crush <gap reason="illegible" resp="#oxf" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and tear me to pieces. Nay, with what a Crown doth she <gap reason="illegible" resp="#oxf" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ent me, a Crown which was so unhappy to Q. <hi>Katharine,</hi>
+                     <gap reason="illegible" resp="#oxf" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> so sad and fatal to the La. <hi>Anne</hi> of <hi>Bullen,</hi> and others that wore it after her; and why then would you have me add my Blood to theirs, and be the third Sacrifice from whom this fatal Crown hath been ravished, with the Head that wears it? But in case it should not prove fatal unto me, and all its Venom were consumed; if the World should give me Warrant of her Constancy, should I be well advised to take upon me those Thorns which would torture me, though not kill me outright; to burthen my self with a yoke which will not fail to vex and torment me, though I were assured not to be strangled by it? My Liberty is better than the Chain you proffer me, with what precious stones soever it be adorned, or of what Gold soever framed: I will not exchange my Peace for honourable and pre<g ref="char:EOLhyphen"/>cious Jealousies, for magnificent and glorious Fetters; and if you love me sincerely, and in good earnest, you will rather wish me a secure and quiet condition, though mean, than an <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ted state, exposed to Tempests, and followed by some <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>al Fall.</q>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> notwithstanding these her earnest and reasonable Argu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and Denials, yet by their strong and pressing Importuni<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey at last wearied her out, and prevailed upon her to <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>▪ wherevpon she was immediately proclaimed Queen <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>There was not much difference in age between this young Lady and King <hi>Edward,</hi> but in Learning and Knowledge she was superiour to him; having the happiness to be instructed by one Master <hi>Elmar,</hi> a Learned and Vertuous Man; which being joyned with an excellent Wit of her own, made her much to be admired.</p>
+               <p>When the Lady <hi>Mary</hi> heard her Brother was dead, being then at <hi>Hunsdon</hi> in <hi>Hartfordshire,</hi> she sent a Letter to the Lords of the Council, wherein she claimeth the Crown as due to her by Birth, by Act of Parliament, and by the Last Will of King <hi>Henry</hi> 8. Whereunto the Lords answer, That according to the last Will of K. <hi>Edward</hi> the Lady <hi>Jane</hi> was Proclaimed Queen, and that by the Divorce of Q. <hi>Katharine</hi> she was made justly Illegitimate, and uncapable of the Crown.</p>
+               <p>The Lady <hi>Mary</hi> was much perplexed at this Letter, and in hearing that the Lady <hi>Jane</hi> had been proclaimed Q. in <hi>London,</hi> and some other principal Cities and Towns; she thereupon re<g ref="char:EOLhyphen"/>tires her self to <hi>Framingham</hi> Castle in <hi>Suffolk,</hi> where resorted to her many, both of that County and <hi>Norfolk,</hi> and being guarded with their power, she vanquisht the D. of <hi>Northumber<g ref="char:EOLhyphen"/>land</hi> and all his Adherents, and was setled in the Kingdom.</p>
+               <p>When the Lords of the Council heard how the Country came in to the Lady <hi>Mary,</hi> they also proclaimed her Queen in <hi>London;</hi> and the D. of <hi>Suffolk</hi> being then in the Tower, with his Daughter Q. <hi>Jane,</hi> the Lords seized upon the Tower, and commanded the Duke to surrender himself a Prisoner; who submitted accord<g ref="char:EOLhyphen"/>ingly, and presently went to his Daughters Chamber, and told her, That she must not now use any Royal Ceremonies any longer, but must be contented to return to her former private condition. To which with a setled Countenance she answered, <hi>Sir, I better like this Message than my former advancement to Roy<g ref="char:EOLhyphen"/>alty: Out of Obedience to you and my Mother, I have grievously sinned, and offered violence to my self, now I do willingly, and as obeying the motions of my Soul relinquish the Crown, and endeavour to salve those faults committed by others, if at least so great a fault can be salved by a willing relinquishment and ingenuous ac<g ref="char:EOLhyphen"/>knowledgment.</hi>
+               </p>
+               <p>Thus continued the L. <hi>Jane</hi> with her Husband the L. <hi>Guilford Dudley</hi> Prisoners, for about five Months after Q. <hi>Mary</hi> came to <hi>London,</hi> and were then both arraigned and condemned at <hi>Guild-Hall</hi> for Treason, and then returned back to the <hi>Tower.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>A While after there was one <hi>Fecknam,</hi> a Priest, sent to the Lady <hi>Jane,</hi> with whom she had the following Conference.</p>
+               <sp>
+                  <speaker>Fecknam.</speaker>
+                  <p>
+                     <hi>Madam, I lament your heavy case, and yet I doubt not but that you bear out this sorrow of yours with a constant and patient mind.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. <hi>Jane.</hi>
+                  </speaker>
+                  <p>You are welcome unto me Sir, if your coming be to give Christian Exhortation; and as for my heavy Case, I thank God I do so little lament it, that I rather account it a more manifest Declaration of the favour of God, than ever he shewed to me before: and therefore there is no cause why ei<g ref="char:EOLhyphen"/>ther you or others which bear me good-will, should lament or be grieved for this my Case; since it is so profitable to my Souls Health.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>I am now sent to you from the Queen and her Council, to instruct you in the True Doctrine of the Right Faith, though I have so great confidence in you, that I hope I shall have little need to labour much with you therein.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>Sir, I heartily thank the Queens Highness, who is not unmindful of her humble Subject; and I hope likewise you will do your Duty both truly and faithfully therein, according as you are sent.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>What is then required of a Christian Man?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>That he should believe in God the Father, Son, and Holy Chost; Three Persons in one God.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>What is there nothing else to be required or looked for in a Christian, but to believe in him?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>Yes, we must love him with all our heart, with all our soul, and with all our mind, and our Neighbour as our self.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>Why then Faith justifieth not, and saveth not?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>Yes verily, Faith, as St. <hi>Paul</hi> saith, only justifieth.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>Why, St.</hi> Paul <hi>saith, If I have all Faith without Love, it is nothing.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>That's true, for how can I love him whom I trust not? Or how can I trust him whom I love not? Faith and Love go both together, and yet Love is comprehended in Faith.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>How should we love our Neighbour?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>To love our Neighbour is to feed the hungry, to cloath the naked, and to give drink to the thirsty, and to do to him as we would do to our selves.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>Why then it is necessary unto Salvation to do good works also; and it is not sufficient only to believe?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>I deny that, and I affirm, That Faith only saveth; but it is fit for a Christian, when that he followeth his Master Christ, to do good works; yet must we not say that they profit to Salvation: <hi>For when we have done all, yet we are but unprofitable Servants;</hi> and Faith only in Christs blood saveth us.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>How many Sacraments are there?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>Two, One the Sacrament of Baptism, and the other the Sacrament of the Lords Supper.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>No, There are Seven.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>By what Scripture find you that?</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>Well we will talk of that hereafter, but what is signified by your two Sacraments?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>By the Sacrament of Baptism I am washed with Water, and rege<g ref="char:EOLhyphen"/>nerated by the Spirit; and that washing is a token to me, that I am a Child of God. The Sacrament of the Lords Supper offered unto me, is a sure Seal and Testimony that I am by the Blood of Christ which he shed for me upon the Cross, made partaker of his Everlasting Kingdom.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>Why what do you receive in that Sacrament? Do you not receive the very Body and Blood of Christ?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>No surely, I do not believe so; I think that at the Supper I neither receive Flesh nor Blood, but Bread and Wine; which Bread when it is bro<g ref="char:EOLhyphen"/>ken, and Wine when it is drank, putteth me in remembrance, that for my sins the Body of Christ was broken, and his Blood shed on the Cross; and with that Bread and Wine I receive the benefits that come by the breaking of his Body, and shedding of his Blood on the Cross.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>Why doth not Christ speak these words,</hi> Take, eat, This is my Body? <hi>Can you require any plainer words? Doth he not lay. It is his Body.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>I grant he says so, and he says, <hi>I am the Vine, I am the Door,</hi> but he is never the more either a Vine or a Door: Doth not St. <hi>Paul</hi> say, <hi>He calleth things that are not as though they were.</hi> God forbid that I should <gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ay I eat the very Natural Body and Blood of Christ; for then I should either take away my Redemption, or else there were two Bodies, or two Christs: One Body was tormented on the Cross, and if they did eat another Body, then he had two Bodies: Or if his Body were eaten, then was it not broken on the Cross; or if it were broken upon the Cross, it was not eaten of his Disciples.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>VVhy is it not as possible that Christ by his power could make his Body both to be eaten and crucified, as to be born of a Woman without seed of a Man, or to walk on the Sea, having a Body; and other such like Miracles as he wrought by his power only?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>Yes verily, if God would have done any Miracle at his Supper, he might have done so; but I say, that then he intended no Work nor Miracle, but only to break his Body, and shed his Blood on the Cross for our sins. But I pray answer me this one question, Where was Christ when he said, <hi>Take, eat, this is my Body?</hi> Was he not at the Table at this time? When he said so, he was now alive, and did not suffer till the next day; therefore what took he but Bread? What brake he but Bread? And what gave he but bread? Now observe, what he took, he brake; and what he brake, he gave; and what he gave they did eat; and yet all this while he himself was alive, and at Supper with his Disciples; or else they were very much deceived.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>You ground your Faith upon such Authors as say and unsay both in a breath, and not upon the Church; to whom you ought to give credit.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>No, I ground my Faith upon Gods Word, and not upon the Church; for if the Church be a good Church, the Faith of the Church must be tryed by Gods Word; and Gods Word must not be tryed by the Church; no more must my Faith. Shall I believe the Church because of her Antiquity? Or shall I give credit to that Church that taketh away from me the half part of the Lords Supper; and will let none receive it in both kinds? Do they learn that of St. <hi>Paul,</hi> whom they know ministred to the <hi>Corinthians</hi> in both kinds? And shall I believe this Church? God forbid.</p>
+               </sp>
+               <sp>
+                  <speaker>Feck.</speaker>
+                  <p>
+                     <hi>That was done for a good intent by the Chursh, to avoid an Heresie that sprang up upon it.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>What shall a Church alter Gods Will and Ordinance for a good in<g ref="char:EOLhyphen"/>tent? How did King <hi>Saul?</hi> The Lord God defend.</p>
+               </sp>
+               <p>With such like Arguments did this Priest endeavour to perswade the Lady <hi>Jane</hi> to forsake her Religion, but finding that they did little prevail upon her, he took his leave, saying, That he was sorry for her; <hi>For I am sure,</hi> saith he, <hi>we shall never meet.</hi>
+               </p>
+               <sp>
+                  <speaker>L. J.</speaker>
+                  <p>It's true, said she, we shall never meet, unless God turn your heart; and I pray God in the Bowels of his Mercy, to send you his Holy Spirit; and that as it hath pleased him to give you this great gift of utterance, so he would open the Eyes of your Heart, and so he departed.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <p>IN the morning of the day wherein this Lady suffered, her Husband the L. <hi>Guilford Dadley,</hi> a gallant young Gentleman, was carried out to the Scaffold on <hi>Tower-hill,</hi> where with Prayers in a most penitent manner he ended his Life. And now her part came next to be acted, for which a Scaffold was erected upon the Green within the Tower, upon which she mounted with a chearful Countenance, and looking upon the People with great constancy, she spake in this manner:</p>
+               <p>
+                  <hi>Good People, I am come hither to dye, and by a Law I am condemned to the same; my offence against the <gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ueens Highness, was only in consenting to the device of others which now is deemed Treason; yet it was never of my seeking, but by counsel of those who should seem to have further understanding of things than I, who know little of the Law, and much less of Titles to the Crown: But teaching the procurement thereof by me, or on my behalf, I do here wash my hands in Innocency before God and the fac<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of you all this day:</hi> And therewith she wrung her hands, wherein she had her Book, and then the said further: <hi>I pray you all good Christian People, to bear <gap reason="illegible" resp="#oxf" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> witness that I dye a True Christian Woman, and that I do look to be saved by no other means but only by the mercy of God, in the Blood of his only Son Jesus Christ: And I do confess, that when I did know the word of God, I neglected the same, and loved my self and the world; and therefore this plague and punishment is justly befaln me for my sins; and I yet thank God of his goodness that he hath been pleased to give me a time and respite to repent in: And now good People while I am alive, I pray assist me with your Prayers?</hi>
+               </p>
+               <p>She then kneeled down and said in English the 51 <hi>Psalm,</hi> to the end, and then standing up she gave her Gloves and her Handkerchief to her Maid, and her Book to Mr. <hi>Bruges</hi> Lieutenant of the Tower; after which she pulled off her Gown, and the Executioner offering to help her, she desired him to let her alone, and turning to her two Gentlewomen, they helpt her off with it and her other Garments, and gave her a fine Handkerchief to tie about her Eyes; then the Executioner fell upon his knees and asked her forgiveness; to whom she said, <hi>The Lord forgive thee, and I do, and I pray dispatch me quickly.</hi> He then desired her to stand upon the straw, doing which she saw the block; and so kneeling down, she said, <hi>Will you take it off before I lay it down?</hi> The Executioner answered, <hi>No Madam:</hi> Then she tied the handkerchief about her Eyes, and feeling for the block, she said, <hi>What shall I do? Where is it? Where is it?</hi> And one of the Spectators guiding her thereunto, she laid her head upon the block, and stretching forth her body she said, <hi>Lord into thy hand, I commend my Spirit;</hi> which was scarce uttered before she received the fatal stroke of the Axe, and thus she ended her Life, <hi>Feb.</hi> 12. in the year 1554. and in the 16th year of her Age; of whom one writes these two Verses:
+<q>
+                     <l>
+                        <hi>Tu quibus ista legas incertum est Lector ocellis,</hi>
+                     </l>
+                     <l>
+                        <hi>Ipse quidem siccis scribere non potui.</hi>
+                     </l>
+                  </q>
+                  <q>
+                     <l>What Eyes thou read'st with Reader, know I not,</l>
+                     <l>Mine were not dry when I this story wrote.</l>
+                  </q>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
